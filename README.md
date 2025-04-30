@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there! 
+I'm Negar. I am passionate about Machine Vision and Machine Learning projects. 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/negarl/count.svg" alt="Visitor's Count" />
-</div>
 
 <!--
 **negarl/negarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/negarl/count.svg" alt="Visitor's Count" />
+</div>
 -->
