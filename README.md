@@ -2,6 +2,13 @@
 I'm Negar. I am passionate about Machine Vision and Machine Learning projects. 
 
 
+
+
+<!--
+for other crazy stuff : 
+https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602
+
+
 ## ⚡️ Stats
 
 <br>
@@ -15,7 +22,7 @@ I'm Negar. I am passionate about Machine Vision and Machine Learning projects.
 <hr>
 
 
-<!--
+
 **negarl/negarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
