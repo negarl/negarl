@@ -1,7 +1,16 @@
 ## Hi there! 
 I'm Negar. I am passionate about Machine Vision and Machine Learning projects. 
 
+## 🛠️ Languages and Tools
 
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c++,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,cuda,docker,openacv,ros" />
+</p>
+
+<hr>
 
 
 <!--
